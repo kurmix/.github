@@ -1,8 +1,10 @@
 ![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
 
-## Get Involved
+## KURMIX FRAMEWORK
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+Kurmix es un Framework donde las funcionalidades y la estructura de un lenguaje de programación a otro es muy similar. Kurmix permite crear aplicaciones web de forma rápida y sencilla, es muy fácil aprender a usarlo.
+
+Se pueden realizar aplicaciones web monolíticas con la versión MVC y también microservicios (apis) con la versión Back.
 
 * [Explore featured projects](https://opensource.microsoft.com/projects/)
 * [Explore open source jobs at Microsoft](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
@@ -15,4 +17,4 @@ Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more
 
 ----
 
-Microsoft projects adopt the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+Kurmix es un proyecto de AndLody Software [AndLody.com](https://andlody.com/). Para mas información [kurmix.com](https://kurmix.com/).
